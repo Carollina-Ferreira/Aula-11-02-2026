@@ -1,0 +1,17 @@
+:root{
+    --background-color: #24c0eb;
+    --card-color: #f1ebeb;
+    --color-text: #000000;
+    --color-space: #cacaca;
+
+    --color-gradient-start: #5cceee;
+    --color-gradient-end: #0096c0;
+
+    --radius-soft: 8px;
+    --radius-round: 20px;
+    --spacing-unit: 16px;
+    --transition-speed: 0.3s;
+    --transition-ease: ease-in-out;
+    --font-size: 15px;
+    --font-family:
+}
